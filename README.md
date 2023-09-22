@@ -1,9 +1,9 @@
 #  Cheat Sheets 
 
-## This Repo contains the cheatsheets of testing and automation tools 
+# This Repo contains the cheatsheets of testing and automation tools 
 
 
-## Below are the cheat sheets added:
+# Below are the cheat sheets added:
 
 * Cypress
 
