@@ -12,7 +12,6 @@
   * Cypress - Commands
   * Cypress - Docker
   * Cypress - Tips & Tricks
-  * Cypress - Traversal Commands
   * Cypress - Essential Plugins
 
  * Mocha
